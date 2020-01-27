@@ -3,6 +3,7 @@
         {
             "no": "1",
             "namakandidat": "Tukiman A",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "domisili" : "Medan",
             "email": "example_email@gmail.com",
             "jenjang": "S1",
@@ -11,6 +12,7 @@
         {
             "no": "2",
             "namakandidat": "Thomy Farhan",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "domisili" : "Bandung",
             "email": "example_email2@gmail.com",
             "jenjang": "S2",
@@ -19,6 +21,7 @@
         {
             "no": "3",
             "namakandidat": "Rama Sukmara",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "domisili" : "Semarang",
             "email": "example_email3@gmail.com",
             "jenjang": "S1",
@@ -27,6 +30,7 @@
         {
             "no": "4",
             "namakandidat": "Nisrina Ulfa",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "domisili" : "Palembang",
             "email": "example_email5@gmail.com",
             "jenjang": "S1",
