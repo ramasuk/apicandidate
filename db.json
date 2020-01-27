@@ -108,5 +108,8 @@
             "jenjang": "S1",
             "jurusan": "Teknik Geologi"
         }
-    ]
+    ],
+    "domisili": ["Jakarta", "Bandung", "Semarang", "Palembang", "Medan"],
+    
+    "Jenjang": ["S1", "S2"],
 }
