@@ -2,7 +2,7 @@
     "data": [
         {
             "no": "1",
-            "foto": "@/assets/images/sample-user.jpeg",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "namakandidat": "Tukiman A",
             "domisili" : "Medan",
             "email": "example_email@gmail.com",
@@ -29,7 +29,7 @@
         },
         {
             "no": "4",
-            "foto": "@/assets/images/sample-user.jpeg",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "namakandidat": "Nisrina Ulfa",
             "domisili" : "Palembang",
             "email": "example_email5@gmail.com",
@@ -38,7 +38,7 @@
         },
         {
             "no": "5",
-            "foto": "@/assets/images/sample-user.jpeg",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "namakandidat": "Ikhsan Ekojut",
             "domisili" : "Jakarta",
             "email": "example_email5@gmail.com",
