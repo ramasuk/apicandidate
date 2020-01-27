@@ -34,7 +34,15 @@
             "domisili" : "Palembang",
             "email": "example_email5@gmail.com",
             "jenjang": "S1",
-            "jurusan": "S2 Ilmu Sosial"
+            "jurusan": "Ilmu Sosial"
+        }{
+            "no": "5",
+            "namakandidat": "Ikhsan Ekojut",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "domisili" : "Jakarta",
+            "email": "example_email5@gmail.com",
+            "jenjang": "S1",
+            "jurusan": "Ilmu Komputer"
         }
     ]
 }
