@@ -110,5 +110,6 @@
         }
     ],
     "domisili": ["Jakarta", "Bandung", "Semarang", "Palembang", "Medan"],
-    "Jenjang": ["S1", "S2"]
+    "Jenjang": ["S1", "S2"],
+    "penanggungjawab": ["akbar", "ali" ,"rojak"]
 }
