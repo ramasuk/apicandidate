@@ -111,5 +111,40 @@
     ],
     "domisili": ["Jakarta", "Bandung", "Semarang", "Palembang", "Medan"],
     "Jenjang": ["S1", "S2"],
-    "penanggungjawab": ["akbar", "ali" ,"rojak"]
+    "penanggungjawab": ["akbar", "ali" ,"rojak"],
+    "batch": [
+        {
+            "No_peserta": "1",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "Nama": "Tukiman B",
+            "Email": "example_email@gmail.com",
+            "Nik": "6251832402",
+            "Bidang": "k3"
+        },
+        {
+            "No_peserta": "2",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "Nama": "Tukiman C",
+            "Email": "example_email1@gmail.com",
+            "Nik": "6252839402",
+            "Bidang": "k31"
+        },
+        {
+            "No_peserta": "3",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "Nama": "Tukiman D",
+            "Email": "example_email2@gmail.com",
+            "Nik": "6221839402",
+            "Bidang": "k32"
+        },{
+            "No_peserta": "4",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "Nama": "Tukiman A",
+            "Email": "example_email3@gmail.com",
+            "Nik": "6251839202",
+            "Bidang": "k36"
+        }
+
+       
+    ]
 }
