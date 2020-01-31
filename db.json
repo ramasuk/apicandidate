@@ -46,7 +46,6 @@
         }
        
     ],
-    "penanggungjawab": ["akbar", "ali" ,"rojak"],
     "batch": [
         {
             "No_peserta": "1",
@@ -68,27 +67,6 @@
             "Bidang": "Distribusi",
             "Agama": "Kristen",
             "TTL": "Surabaya, 25 November 1997",
-            "Status" : "Sudah Kawin"
-        },
-        {
-            "No_peserta": "3",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Nama": "Tukiman D",
-            "Email": "example_email2@gmail.com",
-            "Nik": "6221839402",
-            "Bidang": "HCM",
-            "Agama": "Budha",
-            "TTL": "Serang, 5 Oktober 1994",
-            "Status" : "Belum Kawin"
-        },{
-            "No_peserta": "4",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Nama": "Tukiman A",
-            "Email": "example_email3@gmail.com",
-            "Nik": "6251839202",
-            "Bidang": "Konstruksi",
-            "Agama": "Hindu",
-            "TTL": "Boyolali, 2 Oktober 1987",
             "Status" : "Sudah Kawin"
         }
 
