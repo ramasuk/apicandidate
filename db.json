@@ -142,51 +142,7 @@
             "nama" : "Priscilla",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
             "Status": false
-        },
-        {
-            "id":"6",
-            "tanggal_pelaksanaan":"23 Desember 2019",
-            "jam": "16:00",
-            "no_peserta": "1902/SUB/67/D3-INF/14941",
-            "nama" : "Priscilla",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
-        },
-        {
-            "id":"7",
-            "tanggal_pelaksanaan":"24 Desember 2019",
-            "jam": "08:00",
-            "no_peserta": "1902/SUB/67/D3-INF/14942",
-            "nama" : "Zack Jones",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
-        },
-        {
-            "id":"8",
-            "tanggal_pelaksanaan":"24 Desember 2019",
-            "jam": "09:30",
-            "no_peserta": "1902/SUB/67/D3-INF/14943",
-            "nama" : "Ralph Nguyen",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
-        },
-        {
-            "id":"9",
-            "tanggal_pelaksanaan":"24 Desember 2019",
-            "jam": "11:00",
-            "no_peserta": "1902/SUB/67/D3-INF/14944",
-            "nama" : "Brooklyn Edwards",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
-        },
-        {
-            "id":"10",
-            "tanggal_pelaksanaan":"24 Desember 2019",
-            "jam": "13:00",
-            "no_peserta": "1902/SUB/67/D3-INF/14945",
-            "nama" : "Jane Bell",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
         }
+        
     ]
 }
