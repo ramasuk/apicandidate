@@ -1,113 +1,50 @@
 {
     "data": [
         {
-            "no": "1",
+            "id": "1",
+            "start_date": "23 Des 2019",
+            "end_date": "25 Des 2019",
+            "batch": "Angkatan 67",
+            "kota": "Jakarta Selatan",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Tukiman A",
-            "domisili" : "Medan",
-            "email": "example_email@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "S1 Teknik Informatika"
+            "partner_interview": "Norma Pena",
+            "total_sesi_interview": "16",
+            "done_sesi_interview": "0"
         },
         {
-            "no": "2",
+            "id": "2",
+            "start_date": "18 Des 2019",
+            "end_date": "20 Des 2019",
+            "batch": "Angkatan 66",
+            "kota": "Bandung",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Thomy Farhan",
-            "domisili" : "Bandung",
-            "email": "example_email2@gmail.com",
-            "jenjang": "S2",
-            "jurusan": "Teknik Informatika"
+            "partner_interview": "Gladys Watson",
+            "total_sesi_interview": "16",
+            "done_sesi_interview": "10"
         },
         {
-            "no": "3",
+            "id":"3",
+            "start_date": "30 Agu 2019",
+            "end_date": "01 Sep 2019",
+            "batch": "Angkatan 65",
+            "kota": "Jakarta Pusat",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
+            "partner_interview": "Randall Cooper",
+            "total_sesi_interview": "16",
+            "done_sesi_interview": "16"
         },
         {
-            "no": "4",
+            "id":"4",
+            "start_date": "15 Mar 2019",
+            "end_date": "17 Mar 2019",
+            "batch": "Angkatan 64",
+            "kota": "Semarang",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Nisrina Ulfa",
-            "domisili" : "Palembang",
-            "email": "example_email5@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Ilmu Sosial"
-        },
-        {
-            "no": "5",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Ikhsan Ekojut",
-            "domisili" : "Jakarta",
-            "email": "example_email5@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Ilmu Komputer"
-        },
-        {
-            "no": "6",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "7",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "8",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "9",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "10",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "11",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
-        },
-        {
-            "no": "12",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "namakandidat": "Rama Sukmara",
-            "domisili" : "Semarang",
-            "email": "example_email3@gmail.com",
-            "jenjang": "S1",
-            "jurusan": "Teknik Geologi"
+            "partner_interview": "Scarlett Simmmons",
+            "total_sesi_interview": "16",
+            "done_sesi_interview": "16"
         }
+       
     ],
     "domisili": ["Jakarta", "Bandung", "Semarang", "Palembang", "Medan"],   
     "Jenjang": ["S1", "S2"],
