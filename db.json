@@ -81,7 +81,7 @@
             "no_peserta": "1902/SUB/67/D3-INF/14936",
             "nama" : "Ginting",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": true
+            "Status": "Selesai"
         },
         {
             "id":"2",
@@ -90,7 +90,7 @@
             "no_peserta": "1902/SUB/67/D3-INF/14937",
             "nama" : "Victoria",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": true
+            "Status": "Selesai"
         },
         {
             "id":"3",
@@ -99,7 +99,7 @@
             "no_peserta": "1902/SUB/67/D3-INF/14938",
             "nama" : "arlene",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
+            "Status": "Belum Selesai"
         },
         {
             "id":"4",
@@ -108,7 +108,7 @@
             "no_peserta": "1902/SUB/67/D3-INF/14939",
             "nama" : "Rosmary",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
+            "Status": "Belum Selesai"
         },
         {
             "id":"5",
@@ -117,7 +117,7 @@
             "no_peserta": "1902/SUB/67/D3-INF/14940",
             "nama" : "Priscilla",
             "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Status": false
+            "Status": "Belum Selesai"
         }
         
     ]
