@@ -121,7 +121,7 @@
         }
         
     ],
-    "param": [
+    "param": 
         {
         "id": 1,
     "height_min_male": 160,
@@ -154,5 +154,4 @@
     "radicalism": false,
     "recommended": true
 }
-    ] 
 }
