@@ -84,6 +84,40 @@
             "berkas_disetujui": "18"
         }
     ],
+    "scoring": [
+        {
+            "id": "1",
+            "no_peserta": "1902/SUB/67/D3-INF/14934",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "nama": "Ihsan Okto Kurnia Lidar Ginting",
+            "diajukan_oleh": "Belum diajukan",
+            "status": "Belum Diajukan"
+        },
+        {
+            "id": "2",
+            "no_peserta": "1902/SUB/67/D3-INF/14935",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "nama": "Lin Dan",
+            "diajukan_oleh": "Rahmat Roberto Latuhampina",
+            "status": "Disetujui"
+        },
+        {
+            "id": "3",
+            "no_peserta": "1902/SUB/67/D3-INF/14936",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "nama": "Susilo Bambang Yudhoyono",
+            "diajukan_oleh": "Rahmat Roberto Latuhampina",
+            "status": "Ditolak"
+        },
+        {
+            "id": "4",
+            "no_peserta": "1902/SUB/67/D3-INF/14937",
+            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
+            "nama": "Sujiwo Tedjo",
+            "diajukan_oleh": "Norma Pena",
+            "status": "Diajukan"
+        }
+    ],
     "kandidat":
     [
         {
@@ -132,38 +166,6 @@
             "Status": "Belum Selesai"
         }
         
-    ],
-    "param": 
-        {
-        "id": 1,
-    "height_min_male": 160,
-    "height_min_female": 150,
-    "weight": 0,
-    "bmi_min": 18.5,
-    "bmi_max": 24.9,
-    "eye_minus_max": 1.0,
-    "eye_plus_max": 0.0,
-    "eye_cylinder_max": 0.0,
-    "color_blind": false,
-    "hemorrhoid": false,
-    "doctor_recommendation": true,
-    "hb_min_male": 13,
-    "hb_max_male": 17,
-    "hb_min_female": 12,
-    "hb_max_female": 15,
-    "cholesterol": 130,
-    "heart_rate_min": 60,
-    "heart_rate_max": 100,
-    "drugs": false,
-    "leadership": true,
-    "team_work": true,
-    "competency": true,
-    "work_motivation": true,
-    "attitude": true,
-    "critical_thinking": true,
-    "characteristic": true,
-    "adaptation": true,
-    "radicalism": false,
-    "recommended": true
-}
+    ]
+
 }
