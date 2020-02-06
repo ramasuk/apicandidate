@@ -48,29 +48,41 @@
     ],
     "batch": [
         {
-            "No_peserta": "1",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Nama": "Tukiman B",
-            "Email": "example_email@gmail.com",
-            "Nik": "6251832402",
-            "Bidang": "Akuntansi",
-            "Agama": "Islam",
-            "TTL": "Klaten, 25 Oktober 1997",
-            "Status" : "Belum Kawin"
+            "id": "1",
+            "batch": "Angkatan 64",
+            "kota": "Jakarta Selatan",
+            "berkas_belum_diajukan": "18",
+            "berkas_diajukan": "0",
+            "berkas_ditolak": "0",
+            "berkas_disetujui": "0"
         },
         {
-            "No_peserta": "2",
-            "foto": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&h=350",
-            "Nama": "Tukiman C",
-            "Email": "example_email1@gmail.com",
-            "Nik": "6252839402",
-            "Bidang": "Distribusi",
-            "Agama": "Kristen",
-            "TTL": "Surabaya, 25 November 1997",
-            "Status" : "Sudah Kawin"
+            "id": "2",
+            "batch": "Angkatan 65",
+            "kota": "Bandung",
+            "berkas_belum_diajukan": "8",
+            "berkas_diajukan": "4",
+            "berkas_ditolak": "2",
+            "berkas_disetujui": "4"
+        },
+        {
+            "id": "3",
+            "batch": "Angkatan 66",
+            "kota": "Jakarta Pusat",
+            "berkas_belum_diajukan": "0",
+            "berkas_diajukan": "0",
+            "berkas_ditolak": "0",
+            "berkas_disetujui": "18"
+        },
+        {
+            "id": "4",
+            "batch": "Angkatan 67",
+            "kota": "Semarang",
+            "berkas_belum_diajukan": "0",
+            "berkas_diajukan": "0",
+            "berkas_ditolak": "0",
+            "berkas_disetujui": "18"
         }
-
-       
     ],
     "kandidat":
     [
